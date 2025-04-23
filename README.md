@@ -35,36 +35,9 @@ PetVille é um sistema web completo para gerenciamento de serviços em petshops 
 - Node.js (versão 18.x)
 - MySQL instalado e configurado
 
-### 📦 Instalação
-
-  ```bash
-
-1. Clone o repositório:
- git clone https://github.com/higor-f/PetVille.git
-
-2. Acesse a pasta do projeto:
-cd PetVille
-
-3. Instale as dependências:
-npm install
-
-4. Configure o arquivo .env (copie o exemplo):
-cp .env.example .env
-
-DB_HOST=localhost
-DB_USER=root
-DB_PASS=sua_senha
-DB_NAME=petville
-JWT_SECRET=segredo_ultrasecreto_123
-PORT=3000  
-
-
-5. Inicie o servidor:
-npm start
-
 ## 📁 Estrutura de Diretórios
 
-```bash
+
 PetVille/
 ├── controllers/       # Controladores das rotas
 ├── db/                # Script de criação do banco
@@ -111,3 +84,31 @@ Tela de autenticação com opção de lembrar senha e link para recuperação.
 Dashboard com agendamentos realizados, formulário para novo agendamento, e menu lateral com dados do usuário logado.
 
 ![image](https://github.com/user-attachments/assets/65eeabdc-c61f-44e1-9b07-ac965a4c4cd4)
+
+### 📦 Instalação
+
+  ```bash
+
+1. Clone o repositório:
+ git clone https://github.com/higor-f/PetVille.git
+
+2. Acesse a pasta do projeto:
+cd PetVille
+
+3. Instale as dependências:
+npm install
+
+4. Configure o arquivo .env (copie o exemplo):
+cp .env.example .env
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=sua_senha
+DB_NAME=petville
+JWT_SECRET=segredo_ultrasecreto_123
+PORT=3000  
+
+
+5. Inicie o servidor:
+npm start
+
