@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "API para agendamento de banhos no pet shop Bubble Pets",
+  "description": "API para agendamentos PetVille",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
