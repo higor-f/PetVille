@@ -68,7 +68,7 @@ Tela de autenticação com opção de lembrar senha e link para recuperação.
 
 Dashboard com agendamentos realizados, formulário para novo agendamento, e menu lateral com dados do usuário logado.
 
-![image](https://github.com/user-attachments/assets/65eeabdc-c61f-44e1-9b07-ac965a4c4cd4)
+![image](https://github.com/user-attachments/assets/c3cc4fbe-23bd-4b1e-9f71-841d5c826ace)
 
 ### 📦 Instalação
 
