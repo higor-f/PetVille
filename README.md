@@ -35,21 +35,6 @@ PetVille é um sistema web completo para gerenciamento de serviços em petshops 
 - Node.js (versão 18.x)
 - MySQL instalado e configurado
 
-## 📁 Estrutura de Diretórios
-
-
-PetVille/
-├── controllers/       # Controladores das rotas
-├── db/                # Script de criação do banco
-├── middleware/        # Middlewares (ex: autenticação)
-├── models/            # Modelos de dados
-├── public/            # Arquivos estáticos (CSS, JS, imagens)
-├── routes/            # Arquivos de rotas
-├── views/             # Templates EJS (HTML dinâmico)
-├── .env               # Variáveis de ambiente
-├── app.js             # Entrada principal do servidor
-└── package.json       # Dependências e scripts
-
 ## 🖼️ Capturas de Tela
 
 ### 🏠 Página Inicial
