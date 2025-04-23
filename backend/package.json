@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "Esther Oliveira",
+  "author": "Higor Fonseca",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
