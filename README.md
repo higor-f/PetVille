@@ -37,7 +37,28 @@ PetVille é um sistema web completo para gerenciamento de serviços em petshops 
 
 ### 📦 Instalação
 
+  ```bash
+
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/higor-f/PetVille.git
-   cd PetVille
+ git clone https://github.com/higor-f/PetVille.git
+
+2. Acesse a pasta do projeto
+cd PetVille
+
+3. Instale as dependências
+npm install
+
+4. Configure o arquivo .env (copie o exemplo)
+cp .env.example .env
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=sua_senha
+DB_NAME=petville
+JWT_SECRET=segredo_ultrasecreto_123
+PORT=3000  
+
+
+5. Inicie o servidor
+npm start
+
