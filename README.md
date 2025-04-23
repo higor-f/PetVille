@@ -1,9 +1,7 @@
 # 🐾 PetVille - Sistema de Gestão para Petshops 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen)](https://nodejs.org/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-blue)](https://www.mysql.com/)
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
 
 PetVille é um sistema web completo para gerenciamento de serviços em petshops e clínicas veterinárias. Ele permite aos usuários agendarem atendimentos para seus pets, acompanharem status, e gerenciarem seu perfil, tudo isso com uma interface intuitiva e responsiva.
 
